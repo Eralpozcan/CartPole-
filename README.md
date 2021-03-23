@@ -15,7 +15,7 @@ It can be run on Linux,Windows and Google Colab.
 - kerascartpole.py 
 
 
-## Libraries Instalition
+## Library Installations
     !pip install keras
     !pip install gym
     !pip install numpy
